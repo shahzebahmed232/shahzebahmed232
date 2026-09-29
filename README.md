@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Shahzeb%20Ahmed&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20C%23%20%E2%80%A2%20SQL&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Shahzeb Ahmed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Shahzeb%20Ahmed&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20C%23%20%E2%80%A2%20SQL&descSize=18&descAlignY=58" width="100%" alt="Shahzeb Ahmed"/>
 
 <p align="center">
   <a href="https://shahzebahmed2.netlify.app/">
