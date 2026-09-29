@@ -2,21 +2,16 @@
 
 <p align="center">
   <a href="https://shahzebahmed2.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+business+web+apps+that+real+shops+use+daily;POS+%26+Inventory+Systems+%E2%80%A2+PWAs+%E2%80%A2+.NET+Software;Final-year+BSCS+%40+DHA+Suffa+University%2C+Karachi;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hi+there%2C+I'm+Shahzeb+%F0%9F%91%8B;I+build+POS+%26+business+web+apps;React+%E2%80%A2+C%23+%E2%80%A2+.NET+%E2%80%A2+SQL;Open+to+internships+%26+freelance" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://shahzebahmed2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/shahzebahmed2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/923257998305"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://wordlive.netlify.app/"><img src="https://img.shields.io/badge/Play_WordLive-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="WordLive"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-1E3A8A?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square" alt="Open to work"/>
+  <a href="https://shahzebahmed2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shahzebahmed2/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://wa.me/923257998305"><img src="https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
+  <a href="https://wordlive.netlify.app/"><img src="https://img.shields.io/badge/WordLive-161B22?style=for-the-badge&logo=netlify&logoColor=A78BFA" alt="WordLive"/></a>
 </p>
 
 ---
@@ -178,8 +173,8 @@ Desktop application to add, search, update and manage student records.
 </p>
 
 <p align="center">
-  <a href="https://shahzebahmed2.netlify.app/#contact"><img src="https://img.shields.io/badge/Hire_Me-0EA5E9?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire me"/></a>
-  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/shahzebshaikh232@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://shahzebahmed2.netlify.app/#contact"><img src="https://img.shields.io/badge/Hire_Me-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me"/></a>
+  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/shahzebshaikh232@gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0B1220&height=110&section=footer" width="100%" alt="footer"/>
