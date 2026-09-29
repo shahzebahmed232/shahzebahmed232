@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:0EA5E9&height=200&section=header&text=Shahzeb%20Ahmed&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20C%23%20%E2%80%A2%20SQL&descSize=18&descAlignY=58" width="100%" alt="Shahzeb Ahmed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:67E8F9&height=210&section=header&text=Shahzeb%20Ahmed&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20C%23%20%E2%80%A2%20SQL&descSize=18&descAlignY=57" width="100%" alt="Shahzeb Ahmed"/>
 
 <p align="center">
   <a href="https://shahzebahmed2.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hi+there%2C+I'm+Shahzeb+%F0%9F%91%8B;I+build+POS+%26+business+web+apps;React+%E2%80%A2+C%23+%E2%80%A2+.NET+%E2%80%A2+SQL;Open+to+internships+%26+freelance" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=Hi+there%2C+I'm+Shahzeb+%F0%9F%91%8B;I+build+POS+%26+business+web+apps;React+%E2%80%A2+C%23+%E2%80%A2+.NET+%E2%80%A2+SQL;Open+to+internships+%26+freelance" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://shahzebahmed2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/shahzebahmed2/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  <a href="https://wa.me/923257998305"><img src="https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
-  <a href="https://wordlive.netlify.app/"><img src="https://img.shields.io/badge/WordLive-161B22?style=for-the-badge&logo=netlify&logoColor=A78BFA" alt="WordLive"/></a>
+  <a href="https://shahzebahmed2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shahzebahmed2/"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/923257998305"><img src="https://img.shields.io/badge/WhatsApp-0D9488?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://wordlive.netlify.app/"><img src="https://img.shields.io/badge/WordLive-155E75?style=for-the-badge&logo=netlify&logoColor=white" alt="WordLive"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:06B6D4,100:67E8F9&height=3&section=header" width="100%" alt=""/>
 
 ## 👨‍💻 About Me
 
@@ -53,7 +53,7 @@ const shahzeb = {
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:06B6D4,100:67E8F9&height=3&section=header" width="100%" alt=""/>
 
 ## 🧰 Tech Stack
 
@@ -66,16 +66,16 @@ const shahzeb = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
-  <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" alt="IndexedDB"/>
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" alt="Apps Script"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/SQL_Server-0F766E?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0E7490?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Windows_Forms-0891B2?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms"/>
+  <img src="https://img.shields.io/badge/PWA-0D9488?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
+  <img src="https://img.shields.io/badge/IndexedDB-155E75?style=flat-square&logo=databricks&logoColor=white" alt="IndexedDB"/>
+  <img src="https://img.shields.io/badge/Google_Apps_Script-0F766E?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0E7490?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:06B6D4,100:67E8F9&height=3&section=header" width="100%" alt=""/>
 
 ## 🛠️ What I Build
 
@@ -84,7 +84,7 @@ const shahzeb = {
 | Billing, stock and accounts systems that shops and wholesalers run their day on, from a PC or a phone. | Fast, installable web apps and games that work offline and feel native on any phone. | Windows applications in C# / .NET with a SQL Server database for offices and shops. |
 | POS & invoicing · Inventory & reports · Multi-device sync & backups | Responsive React / JS UI · Installable & offline-ready · Smooth animations | Windows Forms · SQL Server · Records, search & CRUD |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:06B6D4,100:67E8F9&height=3&section=header" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -97,7 +97,7 @@ Billing, stock tracking and daily closing system **used every day** by a real wh
 
 `JavaScript` `PWA` `IndexedDB` `Google Apps Script`
 
-![In Production](https://img.shields.io/badge/Status-In_Production-22C55E?style=flat-square)
+<img src="https://img.shields.io/badge/In_Production-0D9488?style=flat-square&logo=checkmarx&logoColor=white" alt="In Production"/>
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +107,7 @@ A **999-level word game** that is live on the web. No download or sign-up; insta
 
 `React` `JavaScript` `PWA` `Service Workers` `Netlify`
 
-[![Play Live](https://img.shields.io/badge/Play_Live-wordlive.netlify.app-7C3AED?style=flat-square&logo=netlify&logoColor=white)](https://wordlive.netlify.app/)
+<a href="https://wordlive.netlify.app/"><img src="https://img.shields.io/badge/Play_Live-0891B2?style=flat-square&logo=netlify&logoColor=white" alt="Play Live"/></a>
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ Desktop application to add, search, update and manage student records.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:06B6D4,100:67E8F9&height=3&section=header" width="100%" alt=""/>
 
 ## 💼 Experience & Education
 
@@ -151,19 +151,19 @@ Desktop application to add, search, update and manage student records.
 | 🤖 Introduction to Modern AI | Cisco Networking Academy | 2026 |
 | 📊 Data Science *(in progress)* | Saylani Mass IT Training | 2025 – 2026 |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:06B6D4,100:67E8F9&height=3&section=header" width="100%" alt=""/>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahzebahmed232&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=shahzebahmed232&background=0D1117&ring=22D3EE&fire=14B8A6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=67E8F9&dates=94A3B8&stroke=0F766E&hide_border=true&border_radius=12" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzebahmed232&theme=tokyonight" width="100%" alt="GitHub profile summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzebahmed232&theme=nord_dark" width="100%" alt="GitHub profile summary"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:06B6D4,100:67E8F9&height=3&section=header" width="100%" alt=""/>
 
 ## 🤝 Let's Work Together
 
@@ -173,8 +173,8 @@ Desktop application to add, search, update and manage student records.
 </p>
 
 <p align="center">
-  <a href="https://shahzebahmed2.netlify.app/#contact"><img src="https://img.shields.io/badge/Hire_Me-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me"/></a>
-  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/shahzebshaikh232@gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://shahzebahmed2.netlify.app/#contact"><img src="https://img.shields.io/badge/Hire_Me-0D9488?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire Me"/></a>
+  <a href="mailto:shahzebshaikh232@gmail.com"><img src="https://img.shields.io/badge/shahzebshaikh232@gmail.com-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="shahzebshaikh232@gmail.com"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0B1220&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:0891B2,100:0F766E&height=120&section=footer" width="100%" alt="footer"/>
